@@ -26,8 +26,8 @@ For backend
 ```
 ## Screenshots
 
-![screenshots](./airBNBImages/Home.jpeg)
-![screenshots](./airBNBImages/Accomodations.jpeg)
+![screenshots](./airBNBImages/Accomodation.jpeg)
+![screenshots](./airBNBImages/Homes.jpeg)
 
 
 
